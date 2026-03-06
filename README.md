@@ -4,7 +4,6 @@ CampSoftware has been developing software with PHP, FileMaker, Xojo, etc since t
 
 ## CampSoftware [Github Repositories](https://github.com/campsoftware?tab=repositories)
 
-|  |  |
 | [Xanadu Change Log](https://github.com/campsoftware/Xanadu-ChangeLog) | [Xanadu](https://campsoftware.com/products/xanadu/) is a framework for developing Database Driven Web Apps. |
 | [css-namedColors](https://github.com/campsoftware/css-namedColors) | Sometimes you need more colors. Named Colors are a great solution. |
 | [js-location](https://github.com/campsoftware/js-locationGet) | Retrieves the GPS coordinates of the browser. |
