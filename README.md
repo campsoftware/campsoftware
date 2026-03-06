@@ -1,7 +1,6 @@
 ## Hi there 👋 
 
-Our repos:
-
+### Github Repositories
 
 | Repository | Description |
 |---|---|
@@ -12,15 +11,32 @@ Our repos:
 | [css-namedColors](https://github.com/campsoftware/css-namedColors) | Sometimes you need more colors. Named Colors are a great solution. |
 | [js-navTimingAPI](https://github.com/campsoftware/js-navTimingAPI) | Logs to console.log detailed timing metrics related to the navigation and load of a web page. |
 
-| Category | Offering | Summary |
-|---|---|---|
-| **Services** | [Custom Development](https://campsoftware.com/services/custom-development.php) | Affordable, practical, maintainable database-driven web apps (NGINX, PHP, Bootstrap, JavaScript, MySQL). |
-| **Services** | [FileMaker to Web App](https://campsoftware.com/services/filemaker-to-web-app.php) | Convert FileMaker/WebDirect solutions into maintainable web apps to reduce hosting/licensing costs while keeping workflows. |
-| **Services** | [Coaching](https://campsoftware.com/services/coaching.php) | Focused 1-on-1 screen-share sessions to diagnose issues, explain tradeoffs, and outline practical next steps. |
-| **Web Apps** | [Xanadu Web App Framework](https://campsoftware.com/products/xanadu-for-xojo-webfw.php) | Framework to build database-driven web apps fast, easy, and affordable. |
-| **Web Apps** | [Art Licensing Manager](https://campsoftware.com/products/art-licensing-manager.php) | Track art, collections, contacts, licensees, licenses, contracts, and more. |
-| **Desktop Apps** | [SpeakerCue](https://campsoftware.com/products/speakercue.php) | Confidence monitor for public speaking (producer-controlled timers/messages on a separate screen). |
-| **Desktop Apps** | [Uptime Watcher](https://campsoftware.com/products/uptime-watcher.php) | Monitor availability/performance of websites & services with logging and email alerts. |
-| **FileMaker Helpers** | [FMClips](https://campsoftware.com/products/fmclips.php) | Rapidly copy/paste and reuse FileMaker script steps, layout objects, fields, and more. |
-| **FileMaker Helpers** | [FMSnippets](https://campsoftware.com/products/fmsnippets.php) | 250+ abbreviation expansions for FileMaker functions/calculations (for TextExpander-style tools). |
-| **FileMaker Helpers** | [FMDump](https://campsoftware.com/products/fmdump.php) | Export FileMaker tables as MySQL dump files for migration (e.g., Xanadu / Xojo Web Apps). |
+### Services
+
+| Offering | Summary |
+|---|---|
+| [Custom Development](https://campsoftware.com/services/custom-development.php) | Affordable, practical, maintainable database-driven web apps (NGINX, PHP, Bootstrap, JavaScript, MySQL). |
+| [FileMaker to Web App](https://campsoftware.com/services/filemaker-to-web-app.php) | Convert FileMaker/WebDirect solutions into maintainable, database-driven web apps to reduce hosting/licensing costs and improve maintainability. |
+| [Coaching](https://campsoftware.com/services/coaching.php) | Focused 1-on-1 screen-share sessions to diagnose issues, explain tradeoffs, and outline practical next steps. |
+
+### Web Apps
+
+| Offering | Summary |
+|---|---|
+| [Xanadu](https://campsoftware.com/products/xanadu.php) | Platform/framework for developing database-driven web apps (NGINX, PHP, HTML, Bootstrap, CSS, JavaScript, MySQL). |
+| [Art Licensing Manager](https://campsoftware.com/products/art-licensing-manager.php) | Track art, collections, contacts, licensees, licenses, contracts, and more. |
+
+### Desktop Apps
+
+| Offering | Summary |
+|---|---|
+| [SpeakerCue](https://campsoftware.com/products/speakercue.php) | Confidence monitor for public speaking (producer-controlled timers/messages on a separate screen). |
+| [Uptime Watcher](https://campsoftware.com/products/uptime-watcher.php) | Monitors availability/performance of websites & services with logging and email notifications. |
+
+### FileMaker Helpers
+
+| Offering | Summary |
+|---|---|
+| [FMClips](https://campsoftware.com/products/fmclips.php) | Rapidly copy/paste and reuse FileMaker script steps, layout objects, fields, and more. |
+| [FMSnippets](https://campsoftware.com/products/fmsnippets.php) | 250+ abbreviation expansions for FileMaker functions/calculations (requires an abbreviation expansion tool). |
+| *(FMDump)* | If you want it included, tell me the exact page URL you want linked (I couldn’t reliably confirm the live product page path from the homepage scrape). |
