@@ -1,8 +1,6 @@
 ## Welcome! 👋 
 
-CampSoftware has been developing software with PHP, FileMaker, Xojo, etc since the 1990's and would love to help you. We've seen a lot over the years.
-
-Here are our GitHub Repositories, and further below our Services and Products.
+CampSoftware has been developing software with PHP, FileMaker, Xojo, etc since the 1990's and would love to help you. We've seen a lot over the years. Here are our GitHub Repositories, and further below our Services and Products.
 
 ## CampSoftware [Github Repositories](https://github.com/campsoftware?tab=repositories)
 
