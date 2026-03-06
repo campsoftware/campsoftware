@@ -14,13 +14,13 @@ Our repos:
 
 | Category | Offering | Summary |
 |---|---|---|
-| Service | Custom Development | Affordable, practical, maintainable database-driven web apps (NGINX, PHP, Bootstrap, JavaScript, MySQL). |
-| Service | FileMaker to Web App | Convert FileMaker/WebDirect solutions into maintainable web apps to reduce hosting/licensing costs while keeping workflows. |
-| Service | Coaching | Focused 1-on-1 screen-share sessions to diagnose issues, explain tradeoffs, and outline practical next steps (may include sample code). |
-| Product (Web App Framework) | Xanadu Web App Framework | Framework to build database-driven web apps fast, easy, and affordable; can replace FileMaker/Xojo in many use cases. |
-| Product (Web App) | Art Licensing Manager | Web app for tracking art, collections, contacts, licensees, licenses, contracts, and more. |
-| Product (Desktop App) | Speaker Cue | Mac/Windows confidence monitor for public speaking with producer-controlled timers/messages on a separate screen. |
-| Product (Desktop App) | Uptime Watcher | Monitors availability & performance of websites/services with real-time monitoring, visual logging, and email notifications. |
-| Product (FileMaker Helper) | FMClips | Copy/paste and reuse FileMaker script steps, layout objects, fields, and more. |
-| Product (FileMaker Helper) | FMSnippets | 250+ abbreviations that expand into FileMaker functions/calculations. |
-| Product (FileMaker Helper) | FMDump | FileMaker script to export FileMaker tables as MySQL dump files for migration (e.g., Xanadu/Xojo web apps). |
+| **Services** | [Custom Development](https://campsoftware.com/services/custom-development.php) | Affordable, practical, maintainable database-driven web apps (NGINX, PHP, Bootstrap, JavaScript, MySQL). |
+| **Services** | [FileMaker to Web App](https://campsoftware.com/services/filemaker-to-web-app.php) | Convert FileMaker/WebDirect solutions into maintainable web apps to reduce hosting/licensing costs while keeping workflows. |
+| **Services** | [Coaching](https://campsoftware.com/services/coaching.php) | Focused 1-on-1 screen-share sessions to diagnose issues, explain tradeoffs, and outline practical next steps. |
+| **Web Apps** | [Xanadu Web App Framework](https://campsoftware.com/products/xanadu-for-xojo-webfw.php) | Framework to build database-driven web apps fast, easy, and affordable. |
+| **Web Apps** | [Art Licensing Manager](https://campsoftware.com/products/art-licensing-manager.php) | Track art, collections, contacts, licensees, licenses, contracts, and more. |
+| **Desktop Apps** | [SpeakerCue](https://campsoftware.com/products/speakercue.php) | Confidence monitor for public speaking (producer-controlled timers/messages on a separate screen). |
+| **Desktop Apps** | [Uptime Watcher](https://campsoftware.com/products/uptime-watcher.php) | Monitor availability/performance of websites & services with logging and email alerts. |
+| **FileMaker Helpers** | [FMClips](https://campsoftware.com/products/fmclips.php) | Rapidly copy/paste and reuse FileMaker script steps, layout objects, fields, and more. |
+| **FileMaker Helpers** | [FMSnippets](https://campsoftware.com/products/fmsnippets.php) | 250+ abbreviation expansions for FileMaker functions/calculations (for TextExpander-style tools). |
+| **FileMaker Helpers** | [FMDump](https://campsoftware.com/products/fmdump.php) | Export FileMaker tables as MySQL dump files for migration (e.g., Xanadu / Xojo Web Apps). |
