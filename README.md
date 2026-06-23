@@ -22,8 +22,7 @@ CampSoftware has been developing software with PHP, FileMaker, Xojo, etc since t
 | Javascript |  |
 |---|---|
 | [js-navTimingAPI](https://github.com/campsoftware/js-navTimingAPI) | Logs to console.log detailed timing metrics related to the navigation and load of a web page. |
-| [js-checkboxUnchecker](https://github.com/campsoftware/CheckboxUnchecker) | Creates a BackTrace in PHP and returns a string. |
-| [js-githubFeedCollapse](https://github.com/campsoftware/GitHubFeedCollapse) | Retrieves the GPS coordinates of the browser. |
+| [js-checkboxUnchecker](https://github.com/campsoftware/js-CheckboxUnchecker) | Unchecks Checkboxes on a page. |
 
 ## CampSoftware [Services and Products](https://campsoftware.com)
 
